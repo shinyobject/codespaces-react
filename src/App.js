@@ -9,7 +9,7 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload. This is a test.
+          Edit <code>src/App.js</code> and save to reload. This is a test. And another test.
         </p>
         <p>
           <a
